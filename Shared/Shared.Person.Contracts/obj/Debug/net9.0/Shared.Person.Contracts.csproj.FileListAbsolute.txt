@@ -1,0 +1,12 @@
+C:\Projetos\Person\Shared\Shared.Person.Contracts\bin\Debug\net9.0\Shared.Person.Contracts.deps.json
+C:\Projetos\Person\Shared\Shared.Person.Contracts\bin\Debug\net9.0\Shared.Person.Contracts.dll
+C:\Projetos\Person\Shared\Shared.Person.Contracts\bin\Debug\net9.0\Shared.Person.Contracts.pdb
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.AssemblyInfoInputs.cache
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.AssemblyInfo.cs
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.csproj.CoreCompileInputs.cache
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.sourcelink.json
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.dll
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\refint\Shared.Person.Contracts.dll
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\Shared.Person.Contracts.pdb
+C:\Projetos\Person\Shared\Shared.Person.Contracts\obj\Debug\net9.0\ref\Shared.Person.Contracts.dll

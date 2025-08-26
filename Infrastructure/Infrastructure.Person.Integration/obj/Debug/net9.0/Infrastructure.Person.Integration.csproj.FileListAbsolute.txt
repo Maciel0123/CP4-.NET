@@ -1,0 +1,16 @@
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\bin\Debug\net9.0\Infrastructure.Person.Integration.deps.json
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\bin\Debug\net9.0\Infrastructure.Person.Integration.dll
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\bin\Debug\net9.0\Infrastructure.Person.Integration.pdb
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\bin\Debug\net9.0\Shared.Person.Contracts.dll
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\bin\Debug\net9.0\Shared.Person.Contracts.pdb
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.csproj.AssemblyReference.cache
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.AssemblyInfoInputs.cache
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.AssemblyInfo.cs
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.csproj.CoreCompileInputs.cache
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.sourcelink.json
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastr.C82AF47F.Up2Date
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.dll
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\refint\Infrastructure.Person.Integration.dll
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\Infrastructure.Person.Integration.pdb
+C:\Projetos\Person\Infrastructure\Infrastructure.Person.Integration\obj\Debug\net9.0\ref\Infrastructure.Person.Integration.dll

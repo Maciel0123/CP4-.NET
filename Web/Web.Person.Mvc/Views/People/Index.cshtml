@@ -1,0 +1,73 @@
+@model Web.Person.Mvc.Models.PeopleIndexVm
+@{
+    ViewData["Title"] = "Cadastro de Pessoas";
+}
+
+<h2>Cadastro de Pessoas</h2>
+
+<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap">
+    <section style="min-width:320px">
+        <h3>Nova Pessoa</h3>
+        <form asp-action="Create" method="post">
+            <div>
+                <label>Nome</label><br />
+                <input type="text" name="name" required />
+            </div>
+            <div>
+                <label>Email</label><br />
+                <input type="email" name="email" required />
+            </div>
+            <div>
+                <label>CEP (8 dígitos)</label><br />
+                <input type="text" name="cep" placeholder="01001000" pattern="\d{8}" title="8 dígitos" />
+            </div>
+            <div style="margin-top:0.5rem">
+                <button type="submit">Cadastrar</button>
+            </div>
+        </form>
+    </section>
+
+    <section style="min-width:320px">
+        <h3>Consultar CEP (ViaCEP)</h3>
+        <form asp-action="LookupCep" method="post">
+            <div>
+                <label>CEP</label><br />
+                <input type="text" name="cep" placeholder="01001000" pattern="\d{8}" title="8 dígitos" required />
+            </div>
+            <div style="margin-top:0.5rem">
+                <button type="submit">Consultar</button>
+            </div>
+        </form>
+
+        @if (Model.Cep is not null)
+        {
+            <div style="margin-top:1rem">
+                <h4>Endereço</h4>
+                <p><strong>CEP:</strong> @Model.Cep.Cep</p>
+                <p><strong>Logradouro:</strong> @Model.Cep.Logradouro</p>
+                <p><strong>Bairro:</strong> @Model.Cep.Bairro</p>
+                <p><strong>Cidade/UF:</strong> @Model.Cep.Localidade/@Model.Cep.Uf</p>
+            </div>
+        }
+    </section>
+</div>
+
+<hr />
+
+<h3>Lista de Pessoas</h3>
+<table class="table">
+    <thead>
+        <tr><th>Id</th><th>Nome</th><th>Email</th><th>CEP</th></tr>
+    </thead>
+    <tbody>
+    @foreach (var p in Model.People)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Email</td>
+            <td>@p.Cep</td>
+        </tr>
+    }
+    </tbody>
+</table>

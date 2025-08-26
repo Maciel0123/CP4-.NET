@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l+RokswCddJdcfQuCapZOLTsxti6xVKMRS4GEXAe5ag=",
+  "Source": "Web.Person.Api.Cep",
+  "BasePath": "_content/Web.Person.Api.Cep",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

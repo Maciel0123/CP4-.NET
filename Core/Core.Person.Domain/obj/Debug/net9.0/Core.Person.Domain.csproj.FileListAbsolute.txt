@@ -1,0 +1,12 @@
+C:\Projetos\Person\Core\Core.Person.Domain\bin\Debug\net9.0\Core.Person.Domain.deps.json
+C:\Projetos\Person\Core\Core.Person.Domain\bin\Debug\net9.0\Core.Person.Domain.dll
+C:\Projetos\Person\Core\Core.Person.Domain\bin\Debug\net9.0\Core.Person.Domain.pdb
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.AssemblyInfo.cs
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.sourcelink.json
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.dll
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\refint\Core.Person.Domain.dll
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\Core.Person.Domain.pdb
+C:\Projetos\Person\Core\Core.Person.Domain\obj\Debug\net9.0\ref\Core.Person.Domain.dll

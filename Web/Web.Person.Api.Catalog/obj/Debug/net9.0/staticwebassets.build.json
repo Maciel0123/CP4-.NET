@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Gl5WWR2MghWKvwLxAN0M/+lXS0Ac11qEfcayri4t+p8=",
+  "Source": "Web.Person.Api.Catalog",
+  "BasePath": "_content/Web.Person.Api.Catalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

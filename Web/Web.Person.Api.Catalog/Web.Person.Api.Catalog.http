@@ -1,0 +1,6 @@
+@Web.Person.Api.Catalog_HostAddress = http://localhost:5118
+
+GET {{Web.Person.Api.Catalog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
