@@ -102,6 +102,47 @@ Consulta CEP via API de CEP.
 
 Lista de pessoas cadastradas (persistidas no Oracle).
 
+
+## 📐 System Design
+
+```mermaid
+flowchart LR
+  subgraph MVC [Web.Person.Mvc]
+    UI[Views\nControllers]
+  end
+
+  subgraph API_Cep [Web.Person.Api.Cep]
+    CEPController[CepController\n/api/cep/:cep]
+  end
+
+  subgraph API_Catalog [Web.Person.Api.Catalog]
+    PeopleController[PeopleController\n/api/people]
+  end
+
+  subgraph Infra
+    Persistence[(Infrastructure.Person.Persistence\nEF Core + Oracle)]
+    Integration[(Infrastructure.Person.Integration\nHttpClient + Resilience)]
+  end
+
+  subgraph Core
+    Domain[Core.Person.Domain\nEntities + Interfaces]
+    App[Core.Person.Application\nUse Cases]
+    Contracts[Shared.Person.Contracts\nDTOs]
+  end
+
+  UI -->|Http| API_Catalog
+  UI -->|Http| API_Cep
+  API_Catalog <-->|Repo| Persistence
+  API_Cep <-->|HttpClient| Integration
+  App <-->|Interfaces| Domain
+  API_Catalog --> Contracts
+  UI --> Contracts
+  API_Cep --> Contracts
+
+  Integration -->|HTTP público| ViaCEP[(viacep.com.br)]
+  Persistence -->|Oracle EF| OracleDB[(Oracle)]
+```
+
 ## 🧩 Princípios SOLID aplicados
 
 - SRP (Single Responsibility Principle)
@@ -126,3 +167,4 @@ Lista de pessoas cadastradas (persistidas no Oracle).
 
 #Autor:
 - Henrique Maciel
+
