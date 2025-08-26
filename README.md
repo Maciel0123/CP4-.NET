@@ -36,6 +36,7 @@ Criar uma solução alinhada a uma arquitetura de microsserviços, com separaç�
 
 ## 🚀 Como rodar
 1) Build + aplicar migrations
+```
 dotnet clean
 dotnet restore
 dotnet build
@@ -43,38 +44,40 @@ dotnet build
 dotnet ef database update `
   -p .\Infrastructure\Infrastructure.Person.Persistence\Infrastructure.Person.Persistence.csproj `
   -s .\Web\Web.Person.Api.Catalog\Web.Person.Api.Catalog.csproj
+```
 
 2) Subir APIs e MVC (cada uma em terminal separado)
 API Catalog (Oracle)
-dotnet run --project .\Web\Web.Person.Api.Catalog\Web.Person.Api.Catalog.csproj --urls http://localhost:5011
+```dotnet run --project .\Web\Web.Person.Api.Catalog\Web.Person.Api.Catalog.csproj --urls http://localhost:5011```
 
 API Cep (ViaCEP)
-dotnet run --project .\Web\Web.Person.Api.Cep\Web.Person.Api.Cep.csproj --urls http://localhost:5021
+```dotnet run --project .\Web\Web.Person.Api.Cep\Web.Person.Api.Cep.csproj --urls http://localhost:5021```
 
 MVC
-dotnet run --project .\Web\Web.Person.Mvc\Web.Person.Mvc.csproj --urls http://localhost:5031
+```dotnet run --project .\Web\Web.Person.Mvc\Web.Person.Mvc.csproj --urls http://localhost:5031```
 
 ## 🌐 Endpoints
 Catalog API (Oracle)
 
 GET /api/people
-
+```
 [
   { "id": 1, "name": "Ana", "email": "ana@email.com", "cep": "01001000" }
 ]
-
+```
 
 POST /api/people
-
+```
 { "id": 0, "name": "João", "email": "joao@email.com", "cep": "01311000" }
-
-
+```
+```
 Swagger: http://localhost:5011/swagger
+```
 
 CEP API (ViaCEP)
 
 GET /api/cep/01001000
-
+```
 {
   "cep": "01001-000",
   "logradouro": "Praça da Sé",
@@ -82,16 +85,44 @@ GET /api/cep/01001000
   "localidade": "São Paulo",
   "uf": "SP"
 }
-
-
+```
+```
 Swagger: http://localhost:5021/swagger
-
+```
 MVC
 
-Interface em http://localhost:5031/people
+Interface em:
+```
+http://localhost:5031/people
+```
 
 Formulário para cadastrar pessoas.
 
 Consulta CEP via API de CEP.
 
 Lista de pessoas cadastradas (persistidas no Oracle).
+
+## 🧩 Princípios SOLID aplicados
+
+- SRP (Single Responsibility Principle)
+
+  PersonRepository: só persistência.
+
+  CreatePerson/GetAllPeople: só regras de aplicação.
+
+  CepApiClient: só integração externa.
+
+- OCP (Open/Closed Principle)
+
+  Novos casos de uso podem ser adicionados sem alterar código existente.
+
+  Estratégias de resiliência podem ser trocadas (Polly → ResilienceHandler) sem quebrar consumo.
+
+- DIP (Dependency Inversion Principle)
+
+  Use Cases dependem de abstrações (IPersonRepository).
+
+  Controllers recebem dependências via DI.
+
+#Autor:
+- Henrique Maciel
