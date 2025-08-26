@@ -1,0 +1,17 @@
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Core.Store.Application.deps.json
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Core.Store.Application.dll
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Core.Store.Application.pdb
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Core.Store.Domain.dll
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Shared.Store.Contracts.dll
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Core.Store.Domain.pdb
+C:\Projetos\Store\Core\Core.Store.Application\bin\Debug\net9.0\Shared.Store.Contracts.pdb
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.csproj.AssemblyReference.cache
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.AssemblyInfoInputs.cache
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.AssemblyInfo.cs
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Sto.7056395B.Up2Date
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.dll
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\refint\Core.Store.Application.dll
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\Core.Store.Application.pdb
+C:\Projetos\Store\Core\Core.Store.Application\obj\Debug\net9.0\ref\Core.Store.Application.dll

@@ -1,0 +1,11 @@
+C:\Projetos\Store\Core\Core.Store.Domain\bin\Debug\net9.0\Core.Store.Domain.deps.json
+C:\Projetos\Store\Core\Core.Store.Domain\bin\Debug\net9.0\Core.Store.Domain.dll
+C:\Projetos\Store\Core\Core.Store.Domain\bin\Debug\net9.0\Core.Store.Domain.pdb
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\Core.Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\Core.Store.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\Core.Store.Domain.AssemblyInfo.cs
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\Core.Store.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\Core.Store.Domain.dll
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\refint\Core.Store.Domain.dll
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\Core.Store.Domain.pdb
+C:\Projetos\Store\Core\Core.Store.Domain\obj\Debug\net9.0\ref\Core.Store.Domain.dll

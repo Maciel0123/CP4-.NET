@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G5mRKj7u3QFheyjs9cjj7PQRZiNkati4KDENm7nJ+Tk=",
+  "Source": "Web.Store.Api.Cep",
+  "BasePath": "_content/Web.Store.Api.Cep",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+C:\Projetos\Store\Shared\Shared.Store.Contracts\bin\Debug\net9.0\Shared.Store.Contracts.deps.json
+C:\Projetos\Store\Shared\Shared.Store.Contracts\bin\Debug\net9.0\Shared.Store.Contracts.dll
+C:\Projetos\Store\Shared\Shared.Store.Contracts\bin\Debug\net9.0\Shared.Store.Contracts.pdb
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\Shared.Store.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\Shared.Store.Contracts.AssemblyInfoInputs.cache
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\Shared.Store.Contracts.AssemblyInfo.cs
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\Shared.Store.Contracts.csproj.CoreCompileInputs.cache
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\Shared.Store.Contracts.dll
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\refint\Shared.Store.Contracts.dll
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\Shared.Store.Contracts.pdb
+C:\Projetos\Store\Shared\Shared.Store.Contracts\obj\Debug\net9.0\ref\Shared.Store.Contracts.dll

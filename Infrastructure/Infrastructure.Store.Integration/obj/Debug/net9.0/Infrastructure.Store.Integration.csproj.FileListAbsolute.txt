@@ -1,0 +1,15 @@
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\bin\Debug\net9.0\Infrastructure.Store.Integration.deps.json
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\bin\Debug\net9.0\Infrastructure.Store.Integration.dll
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\bin\Debug\net9.0\Infrastructure.Store.Integration.pdb
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\bin\Debug\net9.0\Shared.Store.Contracts.dll
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\bin\Debug\net9.0\Shared.Store.Contracts.pdb
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.csproj.AssemblyReference.cache
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.AssemblyInfoInputs.cache
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.AssemblyInfo.cs
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.csproj.CoreCompileInputs.cache
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastr.A7F77485.Up2Date
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.dll
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\refint\Infrastructure.Store.Integration.dll
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\Infrastructure.Store.Integration.pdb
+C:\Projetos\Store\Infrastructure\Infrastructure.Store.Integration\obj\Debug\net9.0\ref\Infrastructure.Store.Integration.dll
